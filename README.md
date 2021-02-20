@@ -32,7 +32,7 @@
 | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
 
 ## TODO ##
-* [ ] Finish documentation
+* [x] Continue
 * [x] Price control (in `sdcurve` function)
 * [ ] Allow drawing custom functions
 * [ ] Add graph for budget constraints

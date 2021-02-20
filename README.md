@@ -25,5 +25,5 @@
 
 | Year | Date   | Day | Category        | Comments                          |
 |------|--------|-----|-----------------|-----------------------------------|
-| 2021 | Feb 13 | Sat | RP, RB          |                                   |
-| 2021 | Feb 13 | Sat | RP, RB, MS, R   |                                   |
+| 2021 | Feb 14 | Sat | RP, RB          | lots of clerical works            |
+| 2021 | Feb 13 | Sat | RP, RB, MS, R   | Start *Geo computation with R*    |

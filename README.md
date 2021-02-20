@@ -12,9 +12,9 @@
 ## Notations in the Table ##
 
 * Research related works
-  * WP = Wrote Paper(s)
-  * RPB = Read Paper(s) and research-related Book(s)
-  * MS = Studied Math and Stats
+    * WP = Wrote Paper(s)
+    * RPB = Read Paper(s) and research-related Book(s)
+    * MS = Studied Math and Stats
 
 * Software
   * R = R language

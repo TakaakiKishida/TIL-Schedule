@@ -28,4 +28,4 @@
 | 2021 | Feb 17 | Sat | Edit HTML       | lots of clerical works            |
 | 2021 | Feb 15 | Sat | Built website   | lots of clerical works            |
 | 2021 | Feb 14 | Sat | RP, RB, R       | lots of clerical works            |
-| 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geo computation with R*    |
+| 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start studying *Geocomputation with R*    |

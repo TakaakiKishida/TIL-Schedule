@@ -25,7 +25,7 @@
 
 | Year | Date   | Day | Category        | Miscellaneous Note                |
 |------|--------|-----|-----------------|-----------------------------------|
-| 2021 | Feb 20 | Sat | GIS, built TIL  | lots of clerical works            |
+| 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |
 | 2021 | Feb 17 | Wed | Edit HTML       |                                   |
 | 2021 | Feb 15 | Mon | Built website   |                                   |
 | 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |

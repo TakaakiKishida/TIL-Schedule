@@ -14,21 +14,6 @@
   * MS = Studied Math and Stats
 * Research related works
   * WP = Wrote Paper(s)
-
-* Research related works
-  * WP = Wrote Paper(s)
-  * RPB = Read Paper(s) and research-related Book(s)
-  * MS = Studied Math and Stats
-* Software
-  * R = R language
-  * P = Python
-  * MS = Studied Math and Stats
-
-* Research related works
-    * WP = Wrote Paper(s)
-    * RPB = Read Paper(s) and research-related Book(s)
-    * MS = Studied Math and Stats
-
 * Software
   * R = R language
   * P = Python

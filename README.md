@@ -31,8 +31,7 @@
 | 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |
 | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
 
-## TODO ##
-* [x] Continue
-* [x] Price control (in `sdcurve` function)
-* [ ] Allow drawing custom functions
-* [ ] Add graph for budget constraints
+## Checklist ##
+* [x] Keep my desk tidy
+* [x] Keep my download folder tidy
+* [ ] Organize my to-do list

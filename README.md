@@ -12,11 +12,22 @@
 
 ## Objectives ##
 
-* Record my study history.
-  * Always good
-* Become familiar with Markdown and Git.
+* Record my study history
+  * It's always good to look back and see how much I've changed
+* Become familiar with Markdown and Git
 
-## Course Objectives and Learning Outcomes ##
+
+## Notations in the Table ##
+
+* Research related works
+  * WP = Wrote Paper(s)
+  * RPB = Read Paper(s) and research-related Book(s)
+  * MS = Studied Math and Stats
+
+* Software
+  * R = R language
+  * P = Python
+  * GIS = on R, Python, or QGIS
 
 By the end of the course, students should be able to do the following:
 

@@ -1,13 +1,10 @@
 # TIL #
 
-
-
 ## Objectives and Notes ##
 
 * Record my study history
   * It's always good to look back and see how much I've changed
 * Become familiar with Markdown and Git
-
 
 ## Notations in the Table ##
 
@@ -17,10 +14,6 @@
   * MS = Studied Math and Stats
 * Research related works
   * WP = Wrote Paper(s)
-
-
-
-
 
 * Research related works
   * WP = Wrote Paper(s)

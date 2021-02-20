@@ -9,7 +9,7 @@
 
 ## Category Notations in the Sheet ##
 
-* Research related works
+* Research-related works
   * WP = Writing Paper(s)
   * RP = Reading Paper(s)
   * RB = Reading research-related Book(s)
@@ -23,7 +23,9 @@
 
 ## Record Sheet ##
 
-| Year | Date   | Day | Category        | Comments                          |
+| Year | Date   | Day | Category        | Miscellaneous Note                |
 |------|--------|-----|-----------------|-----------------------------------|
-| 2021 | Feb 14 | Sat | RP, RB          | lots of clerical works            |
-| 2021 | Feb 13 | Sat | RP, RB, MS, R   | Start *Geo computation with R*    |
+| 2021 | Feb 17 | Sat | Edit HTML       | lots of clerical works            |
+| 2021 | Feb 15 | Sat | Built website   | lots of clerical works            |
+| 2021 | Feb 14 | Sat | RP, RB, R       | lots of clerical works            |
+| 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geo computation with R*    |

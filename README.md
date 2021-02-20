@@ -11,7 +11,8 @@
 
 * Research related works
   * WP = Writing Paper(s)
-  * RP/RB = Reading Paper(s) and research-related Book(s)
+  * RP = Reading Paper(s)
+  * RB = Reading research-related Book(s)
   * MS = Studying Math and Stats
 * Software works
   * R = R language
@@ -22,9 +23,7 @@
 
 ## Record Sheet ##
 
-| Year | Date   | Day | Category        | Comments                |
-|------|--------|-----|-----------------|-------------------------|
-| 2021 | Feb 13 | Sat | RP, RB, MS, R   |                         |
-
-
-                                                                                    
+| Year | Date   | Day | Category        | Comments                          |
+|------|--------|-----|-----------------|-----------------------------------|
+| 2021 | Feb 13 | Sat | RP, RB          |                                   |
+| 2021 | Feb 13 | Sat | RP, RB, MS, R   |                                   |

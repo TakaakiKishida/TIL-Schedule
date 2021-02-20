@@ -11,6 +11,14 @@
 
 ## Notations in the Table ##
 
+* Software to increase research productivity including:
+    * LaTeX/Markdown
+    * git
+* Software to collect & clean data, and estimate statistical models:
+    * R
+    * Julia
+    * Python
+
 * Research related works
   * WP = Wrote Paper(s)
   * RPB = Read Paper(s) and research-related Book(s)

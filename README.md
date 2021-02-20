@@ -9,23 +9,17 @@
 * Become familiar with Markdown and Git
 
 
-## Objectives and Notes ##
+## Notations in the Table ##
 
-* Record my study history
-  * It's always good to look back and see how much I've changed
+* Research related works
+  * WP = Wrote Paper(s)
+  * RPB = Read Paper(s) and research-related Book(s)
+  * MS = Studied Math and Stats
 * Become familiar with Markdown and Git
 
 
 
-## Notations in the Table ##
 
-* Software to increase research productivity including:
-    * LaTeX/Markdown
-    * git
-* Software to collect & clean data, and estimate statistical models:
-    * R
-    * Julia
-    * Python
 
 * Research related works
   * WP = Wrote Paper(s)

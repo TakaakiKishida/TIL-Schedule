@@ -35,3 +35,4 @@
 * [x] Keep my desk tidy
 * [x] Keep my download folder tidy
 * [ ] Organize my to-do list
+* [ ] Make a weekly schedule every Sunday

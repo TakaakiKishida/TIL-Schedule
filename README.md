@@ -1,7 +1,6 @@
 # TIL #
 
 
-
 |  | [Tyler Ransom](http://tyleransom.github.io) |
 |--------------|--------------------------------------------------------------|
 | Email | [ransom@ou.edu](mailto:ransom@ou.edu) |
@@ -11,10 +10,11 @@
 
 
 
-## Purpose ##
+## Objectives ##
 
-* Record my study history. 
-* Become familiar with Markdown and Git. 
+* Record my study history.
+  * Always good
+* Become familiar with Markdown and Git.
 
 ## Course Objectives and Learning Outcomes ##
 
@@ -131,9 +131,9 @@ Final grades will be assigned according to the standard cutoffs (90%+ for an A, 
 | Mar 29 | Th  | Supervised ML: Regularization, measuring model fit, tuning with cross-validation, the elastic net model ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/README.md#bias-variance-tradeoff)) |                                                                                                                                |
 | Apr 3  | T   | Supervised ML: The 5 Tribes of Machine Learning ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/README.md#the-5-tribes-of-machine-learning)) | [PS 9](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/PS9.pdf) |
 | Apr 5  | Th  | Unsupervised ML: Clustering ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/UnsupervisedLearning.md)) |                                                                                                                                |
-| Apr 10 | T   | Unsupervised ML: Dimensionality reduction and reinforcement learning ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/UnsupervisedLearning.md)) | [PS 10](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/PS10.pdf) 
+| Apr 10 | T   | Unsupervised ML: Dimensionality reduction and reinforcement learning ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/UnsupervisedLearning.md)) | [PS 10](https://github.com/tyleransom/DScourseS18/blob/master/MachineLearning/PS10.pdf)
 | Apr 12 | Th  | Machine learning vs. econometrics ([Notes](https://github.com/tyleransom/DScourseS18/blob/master/Structural/README.md)) | |
-| Apr 17 | T   | Structural modeling: static discrete choice ([Slides](https://github.com/tyleransom/DScourseS18/blob/master/Structural/discreteChoiceSlides.pdf)) | [PS 11](https://github.com/tyleransom/DScourseS18/blob/master/Structural/PS11.pdf) 
+| Apr 17 | T   | Structural modeling: static discrete choice ([Slides](https://github.com/tyleransom/DScourseS18/blob/master/Structural/discreteChoiceSlides.pdf)) | [PS 11](https://github.com/tyleransom/DScourseS18/blob/master/Structural/PS11.pdf)
 | Apr 19 | Th  | Field Trip to Sonic HQ |                                                                                                                                |
 | Apr 24 | T   | Structural modeling: dynamic discrete choice ([Slides](https://github.com/tyleransom/DScourseS18/blob/master/Structural/discreteChoiceSlides.pdf)) | |
 | Apr 26 | Th  | Final Project presentations ([Rubric](https://github.com/tyleransom/DScourseS18/blob/master/FinalProject/README.md)) | |

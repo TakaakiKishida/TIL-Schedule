@@ -30,3 +30,9 @@
 | 2021 | Feb 15 | Mon | Built website   |                                   |
 | 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |
 | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
+
+## TODO ##
+* [ ] Finish documentation
+* [x] Price control (in `sdcurve` function)
+* [ ] Allow drawing custom functions
+* [ ] Add graph for budget constraints

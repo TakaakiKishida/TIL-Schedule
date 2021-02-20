@@ -15,7 +15,8 @@
   * WP = Wrote Paper(s)
   * RPB = Read Paper(s) and research-related Book(s)
   * MS = Studied Math and Stats
-* Become familiar with Markdown and Git
+* Research related works
+  * WP = Wrote Paper(s)
 
 
 

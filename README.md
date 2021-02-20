@@ -1,16 +1,8 @@
 # TIL #
 
 
-|  | [Tyler Ransom](http://tyleransom.github.io) |
-|--------------|--------------------------------------------------------------|
-| Email | [ransom@ou.edu](mailto:ransom@ou.edu) |
-| Office | 322 CCD1 |
-| Office Hours | M 9-10am, Th 12-1pm |
-| GitHub | [tyleransom](https://github.com/tyleransom) |
 
-
-
-## Objectives ##
+## Objectives and Notes ##
 
 * Record my study history
   * It's always good to look back and see how much I've changed

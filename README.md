@@ -24,7 +24,7 @@
 ## Record Sheet ##
 
 | No | Year | Date   | Day | Category        | Miscellaneous Note                |
-| 6  |------|--------|-----|-----------------|-----------------------------------|
+|----|------|--------|-----|-----------------|-----------------------------------|
 | 5  | 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |
 | 4  | 2021 | Feb 17 | Wed | Edit HTML       |                                   |
 | 3  | 2021 | Feb 15 | Mon | Built website   |                                   |

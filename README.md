@@ -23,13 +23,13 @@
 
 ## Record Sheet ##
 
-| Year | Date   | Day | Category        | Miscellaneous Note                |
-|------|--------|-----|-----------------|-----------------------------------|
-| 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |
-| 2021 | Feb 17 | Wed | Edit HTML       |                                   |
-| 2021 | Feb 15 | Mon | Built website   |                                   |
-| 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |
-| 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
+| No | Year | Date   | Day | Category        | Miscellaneous Note                |
+| 6  |------|--------|-----|-----------------|-----------------------------------|
+| 5  | 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |
+| 4  | 2021 | Feb 17 | Wed | Edit HTML       |                                   |
+| 3  | 2021 | Feb 15 | Mon | Built website   |                                   |
+| 2  | 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |
+| 1  | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
 
 ## Checklist ##
 * [x] Keep my desk tidy

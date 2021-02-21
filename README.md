@@ -14,6 +14,8 @@
   * RP = Reading Paper(s)
   * RB = Reading research-related Book(s)
   * MS = Studying Math and Stats
+* School-related works
+  * HW = Homework
 * Software works
   * R = R language
   * P = Python

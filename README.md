@@ -46,4 +46,7 @@
 
 | Date      | Chapter | Finished           |
 |-----------|---------|:------------------:|
-| Feb 13-14 | Feb 22  | :heavy_check_mark: |
+| Mar 13-14 | 5       |  |
+| Mar 6-7   | 4       |  |
+| Feb 20-21 | 3       | :heavy_check_mark: |
+| Feb 13-14 | 1-2     | :heavy_check_mark: |

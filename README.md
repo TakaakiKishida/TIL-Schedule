@@ -27,7 +27,7 @@
 
 | No | Year | Date   | Day | Category        | Miscellaneous Note                |
 |----|------|--------|-----|-----------------|-----------------------------------|
-| 7  | 2021 | Feb 22 | Mon | WP, RP, GIS     | refresh                           |
+| 7  | 2021 | Feb 23 | Tue | WP, RP, GIS     | refresh                           |
 | 7  | 2021 | Feb 22 | Mon | impt. work      | finished, well done               |
 | 6  | 2021 | Feb 21 | Sun | impt. work      | well done                         |
 | 5  | 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |

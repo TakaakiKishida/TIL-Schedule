@@ -27,11 +27,13 @@
 
 | No | Year | Date   | Day | Category        | Miscellaneous Note                |
 |----|------|--------|-----|-----------------|-----------------------------------|
+| 7  | 2021 | Feb 22 | Mon | impt. work      | finished, well done               |
+| 6  | 2021 | Feb 21 | Sun | impt. work      | well done                         |
 | 5  | 2021 | Feb 20 | Sat | GIS, built TIL  | clerical works, scheduling        |
 | 4  | 2021 | Feb 17 | Wed | Edit HTML       |                                   |
 | 3  | 2021 | Feb 15 | Mon | Built website   |                                   |
 | 2  | 2021 | Feb 14 | Sun | RP, RB, R       | lots of clerical works            |
-| 1  | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | Start *Geocomputation with R*     |
+| 1  | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | start *Geocomputation with R*     |
 
 ## Checklist ##
 * [x] Keep my desk tidy

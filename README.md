@@ -45,5 +45,5 @@
 ## Temporally Created Sheet for *Geocomputation with R* ##
 
 | Date      | Chapter | Finished           |
-|-----------|---------|--------------------|
+|-----------|---------|:------------------:|
 | Feb 13-14 | Feb 22  | :heavy_check_mark: |

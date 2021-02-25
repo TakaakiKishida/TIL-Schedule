@@ -27,6 +27,8 @@
 
 | No | Year | Date   | Day | Category        | Miscellaneous Note                |
 |----|------|--------|-----|-----------------|-----------------------------------|
+| 8  | 2021 | Feb 25 | Thu |                 | refresh, tidy up                  |
+| 8  | 2021 | Feb 24 | Wed |                 | refresh, tidy up                  |
 | 8  | 2021 | Feb 23 | Tue | WP, RP, GIS     | refresh                           |
 | 7  | 2021 | Feb 22 | Mon | impt. work      | finished, well done               |
 | 6  | 2021 | Feb 21 | Sun | impt. work      | well done                         |

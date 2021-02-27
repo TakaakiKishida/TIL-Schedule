@@ -45,6 +45,11 @@
 * [ ] Organize my to-do list
 * [ ] Make a weekly schedule every Sunday
 
+## To-Do ##
+* [ ] 'Metrics Note
+* [ ] Deforestation Summary
+* [ ] GIS Note
+
 ## Temporally Created Sheet for *Geocomputation with R* ##
 
 | Date      | Chapter | Finished           |

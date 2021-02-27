@@ -46,7 +46,7 @@
 * [ ] Make a weekly schedule every Sunday
 
 ## To-Do ##
-* [ ] 'Metrics Note
+* [x] 'Metrics Note
 * [ ] Deforestation Summary
 * [ ] GIS Note
 

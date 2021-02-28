@@ -13,7 +13,7 @@
   * WP = Writing Paper(s)
   * RP = Reading Paper(s)
   * RB = Reading research-related Book(s)
-  * MS = Studying Math and Stats
+  * MS = Studying 'Metrics, Math and Stats
 * School-related works
   * HW = Homework
 * Software works
@@ -27,6 +27,7 @@
 
 | No  | Year | Date   | Day | Category        | Miscellaneous Note                |
 |-----|------|--------|-----|-----------------|-----------------------------------|
+| 12  | 2021 | Feb 28 | Sun | RP, MS          |                                   |
 | 11  | 2021 | Feb 27 | Sat | RP, GIS         |                                   |
 | 10  | 2021 | Feb 25 | Tur |                 | HHKB                              |
 | 9   | 2021 | Feb 24 | Wed |                 | refresh, tidy up                  |
@@ -40,7 +41,7 @@
 | 1   | 2021 | Feb 13 | Sat | RP, RB, MS, GIS | start *Geocomputation with R*     |
 
 ## Checklist ##
-* [ ] Keep my desk tidy
+* [x] Keep my desk tidy
 * [x] Keep my download folder tidy
 * [ ] Organize my to-do list
 * [ ] Make a weekly schedule every Sunday
